@@ -65,7 +65,7 @@ Mac OS X
 
 ***insert mac-installer figure here***
 
-2. Open the datavyu-1.X.X.dmg file, you can drag this to your Applications folder, 
+2. Open the datavyu-1.X.X.dmg file. You can drag this to your Applications folder, 
    or some other preferred location on your computer. Once it’s on your local computer, 
    you can eject the .dmg file and delete it.
 3. If Datavyu opens with no trouble, you can now use the application as intended. 
@@ -74,7 +74,7 @@ Mac OS X
 4. Upon the first opening of Datavyu, depending on your security settings, Datavyu will 
    not open until you allow it. To allow Datavyu to open on your computer, go to 
    System Preferences > Privacy & Security > On the bottom of the window, click on 
-   “Allow Once” that’s on the right of a description of Datavyu. You should now be
+   “Allow Once” that’s on the right of the description of Datavyu. You should now be
    able to open Datavyu.
 
 
@@ -119,7 +119,7 @@ version is released, Datavyu will prompt you to download the latest version.
 
 ***insert datavyu-check-updates image***
 
-You can also check if your Datavyu version is up to date by opening the *Help*
+You can also check if your Datavyu version is up-to-date by opening the *Help*
 menu from the menu bar when the spreadsheet window is selected, and then selecting 
 *Check for updates....* If a new version is available, it will prompt you to 
 choose whether you’d want the newest update “Now”, “Later”, or “Never”. If you 
