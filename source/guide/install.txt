@@ -23,8 +23,9 @@ These hardware requirements are the minimum needed for Datavyu:
 More RAM, a faster processor, or a better graphics card will improve Datavyu’s performance, especially when working with higher-resolution data sources (such as 4K or HD videos).
 
 You will also need enough disk space for your videos. We **highly recommend** that you
-use Datavyu on your **local storage device** instead of on an external one (i.e. a server)
-to minimize any lag or freezing issues. A keypad, either built in to your keyboard, or as an external device, will be needed to control Datavyu.
+use Datavyu and place your videos on your **local storage device** instead of on an 
+external one (i.e. a server) to minimize any lag or freezing issues. 
+A keypad, either built in to your keyboard, or as an external device, will be needed to control Datavyu.
 
 Software Requirements
 ~~~~~~~~~~~~~~~~~~~~~
